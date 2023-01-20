@@ -1,3 +1,4 @@
+
 function displayCounter() {
     let counter = 0;
 
